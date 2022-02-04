@@ -1,0 +1,24 @@
+{
+  "name": "realtime_chat",
+  "version": "1.0.0",
+  "description": "Chat em tempo real com React e Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guinther-erich/realtime_chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guinther-erich/realtime_chat/issues"
+  },
+  "homepage": "https://github.com/guinther-erich/realtime_chat#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
